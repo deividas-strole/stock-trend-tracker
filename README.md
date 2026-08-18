@@ -75,7 +75,7 @@ See the [Project Board](#) for current status. High-level milestones:
 - [ ] React dashboard
 - [ ] (Stretch) AI/ML-based prediction service
 
-## License
+## License:
 
 TBD
 
