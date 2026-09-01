@@ -6,7 +6,7 @@ An application that pulls stock market data and surfaces short-term trend estima
 
 This project does **not** predict future stock prices. Markets are highly unpredictable, and no algorithm here (or anywhere) can reliably forecast them. What this app *does* provide is **trend estimation** based on historical price data and well-known technical indicators (moving averages, RSI, momentum, linear regression). It's a learning/portfolio project, not financial advice, and should never be used to make real investment decisions.
 
-## Features
+## Features:
 
 - Fetch and store historical stock price data for a given symbol
 - Calculate technical indicators:
