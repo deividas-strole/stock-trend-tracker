@@ -17,7 +17,7 @@ This project does **not** predict future stock prices. Markets are highly unpred
 - REST API exposing trend/estimate data per symbol
 - React dashboard with price charts and trend overlays
 
-## Tech Stack
+## Tech Stack:
 
 **Backend**
 - Java 21
